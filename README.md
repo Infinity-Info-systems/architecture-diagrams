@@ -35,18 +35,28 @@ This repository supports:
 .vsdx  Visio source diagrams
 .pdf   publication-ready diagrams
 
-Create diagram index:
+```
 
-```bash
-cat > evidence/diagram-index.md <<'EOF'
-# Diagram Index
+## Start Here
 
-| Diagram Category | Purpose | Status |
-|---|---|---|
-| MCGR Framework | Multi-cloud governance and SRE model | Placeholder |
-| SRE Operating Model | Reliability engineering lifecycle | Placeholder |
-| AI Observability | Predictive monitoring and anomaly detection | Placeholder |
-| Disaster Recovery | Failover/failback governance model | Placeholder |
-| FinOps Governance | Cloud cost optimization lifecycle | Placeholder |
-| Policy Drift Detection | Governance and control validation | Placeholder |
-| Enterprise Architecture | Capability and transformation blueprints | Placeholder |
+1. Review the diagram categories.
+2. Use the index to find the right visual family.
+3. Keep source files and exports aligned.
+4. Expand the evidence index as new visuals are added.
+
+## Shared Direction
+
+Use this repository as the visual backbone for the broader framework ecosystem.
+
+## Ecosystem Links
+
+- [MCGR-Framework](../MCGR-Framework/README.md)
+- [Multi-Cloud Governance Model](../multi-cloud-governance-model/README.md)
+- [SLO-Driven Cloud Architecture](../slo-driven-cloud-architecture/README.md)
+- [DR Governance Framework](../dr-governance-framework/README.md)
+- [AI-Driven Observability Framework](../ai-driven-observability-framework/README.md)
+- [Cloud Risk and Compliance Controls](../cloud-risk-compliance-controls/README.md)
+
+## Core Content
+
+- [Architecture Map Index](evidence/architecture-map-index.md)
