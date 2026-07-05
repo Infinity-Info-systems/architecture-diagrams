@@ -24,4 +24,3 @@ This index organizes the diagram library into a front door for architecture, gov
 ## Shared Direction
 
 Use the same section structure as the other core repos so visual assets stay easy to find and reuse.
-

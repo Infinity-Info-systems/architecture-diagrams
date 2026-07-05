@@ -19,12 +19,12 @@ This repository organizes architecture diagrams, governance visuals, framework m
 
 This repository supports:
 
-- Public research papers
+- public research papers
 - SSRN publications
-- Conference submissions
+- conference submissions
 - Infinity Info Systems website
 - GitHub framework repositories
-- Architecture review and advisory materials
+- architecture review and advisory materials
 
 ## Recommended File Types
 
@@ -34,15 +34,15 @@ This repository supports:
 .drawio source diagrams
 .vsdx  Visio source diagrams
 .pdf   publication-ready diagrams
-
 ```
 
-## Start Here
+## How To Use This Repo
 
-1. Review the diagram categories.
-2. Use the index to find the right visual family.
-3. Keep source files and exports aligned.
-4. Expand the evidence index as new visuals are added.
+1. Choose the diagram family that matches the topic.
+2. Keep source files and exports together.
+3. Publish export-ready assets for papers and web pages.
+4. Link back to the corresponding framework repository.
+5. Update the evidence indexes as diagrams are added or revised.
 
 ## Shared Direction
 
