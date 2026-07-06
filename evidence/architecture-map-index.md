@@ -68,6 +68,9 @@ Use this page to find the right diagram family for governance, SRE, DR, observab
 - use the same naming convention for exports
 - link every diagram back to the hub repo
 - keep source files and export files together
+- add a short “when to use” note to every family page
+- list the primary repo or publication each family supports
+- flag any diagram that is intended for executive use
 
 ## Related Artifacts
 
