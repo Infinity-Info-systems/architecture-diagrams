@@ -17,3 +17,7 @@ Exports here should be easy to reference, easy to publish, and easy to reuse.
 - keep filenames aligned with source diagrams
 - export at the same time as source changes
 - prefer one canonical export set per diagram version
+
+## Export Rule
+
+Every export should be traceable back to a source file and a clear purpose.

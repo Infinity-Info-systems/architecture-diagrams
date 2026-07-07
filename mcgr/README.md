@@ -22,3 +22,7 @@ It is the main visual bridge between the MCGR-Framework repository and the publi
 - use them for the website and research references
 - reuse the same visual language in publications and landing pages
 - keep a single source of truth for diagram labels and captions
+
+## Use Guidance
+
+Use this family for the diagrams that define the core MCGR story and its related public references.

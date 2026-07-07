@@ -20,3 +20,7 @@ These diagrams should make the path from raw signals to action obvious at a glan
 - pair visuals with the observability framework
 - use them for operational and executive storytelling
 - keep labels concise enough for slides and web use
+
+## Use Guidance
+
+Use this family when the visual needs to show how telemetry becomes action.

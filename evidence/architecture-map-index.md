@@ -71,6 +71,11 @@ Use this page to find the right diagram family for governance, SRE, DR, observab
 - add a short “when to use” note to every family page
 - list the primary repo or publication each family supports
 - flag any diagram that is intended for executive use
+- document the source file for each published export
+
+## Index Rule
+
+If a diagram is important enough to publish, it should be easy to trace back to its source and its purpose.
 
 ## Related Artifacts
 

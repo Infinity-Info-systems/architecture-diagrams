@@ -21,3 +21,7 @@ Use it when the story needs to connect strategy, current state, and target state
 - link diagrams to the architecture blueprints repository
 - keep diagrams aligned with roadmap decisions
 - make sure the visuals support both executive and implementation audiences
+
+## Use Guidance
+
+Use this family when the visual needs to connect capability, target state, and modernization sequencing.

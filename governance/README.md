@@ -20,3 +20,7 @@ Use it to show how standards, controls, approvals, and exceptions move through t
 - link visuals to the multi-cloud governance model
 - use them in compliance and policy reviews
 - make them easy to reuse in board decks and architecture reviews
+
+## Use Guidance
+
+Use this family when the visual needs to explain policy, control, exception, or approval flow.

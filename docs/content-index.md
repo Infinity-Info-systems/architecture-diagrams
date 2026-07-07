@@ -33,3 +33,4 @@ Use it to quickly find the right visual family for a paper, a web page, or a boa
 ## Shared Direction
 
 Use the same section structure as the other core repos so visual assets stay easy to find and reuse.
+Keep family names and export names aligned so the same visual can be found across repos quickly.

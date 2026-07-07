@@ -39,6 +39,16 @@ This repository supports:
 - architecture review and advisory materials
 - brand and web presentation assets
 - publication figures and appendix visuals
+- reusable diagram families
+- cross-repository visual consistency
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- family pages and visual guidance
+- indexes and references
+- source files and exports
 
 ## Recommended Workflow
 
@@ -47,6 +57,7 @@ This repository supports:
 3. Place final exports in the matching family folder.
 4. Update the family README and the index pages.
 5. Link diagrams back to the related repo or publication.
+6. Keep the naming and captioning consistent across all exports.
 
 ## Recommended File Types
 
@@ -70,6 +81,10 @@ This repository supports:
 ## Shared Direction
 
 Use this repository as the visual backbone for the broader framework ecosystem. Each diagram should reinforce the same narrative: one enterprise model, many connected capabilities.
+
+## Operating Principle
+
+Every visual should be easy to reuse, easy to trace, and consistent with the story the repository is telling.
 
 ## Ecosystem Links
 

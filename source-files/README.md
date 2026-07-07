@@ -17,3 +17,7 @@ This is the working area where the visual structure should be maintained before 
 - keep source and export names aligned
 - update source first, then export
 - include a short note in the source file name if the diagram is tied to a specific repo or publication
+
+## Source Rule
+
+If the source file is unclear, the exported visual is harder to trust and reuse.

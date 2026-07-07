@@ -20,3 +20,7 @@ Use it to explain cost ownership and decision-making across cloud teams.
 - pair visuals with the FinOps governance repository
 - use them in budget and optimization reviews
 - make cost narratives accessible to both finance and engineering audiences
+
+## Use Guidance
+
+Use this family when the visual needs to explain cost ownership, optimization, or savings validation.

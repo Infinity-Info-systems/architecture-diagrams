@@ -20,3 +20,7 @@ It should help readers understand how business continuity is protected and verif
 - pair visuals with the DR governance framework
 - use them in recovery reviews and exercises
 - keep recovery objectives visible in the diagram narrative
+
+## Use Guidance
+
+Use this family when the visual needs to show failover, failback, or recovery confidence.
