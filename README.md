@@ -3,6 +3,7 @@
 ## Overview
 
 This repository is the visual asset hub for the MCGR ecosystem and the wider Infinity Info Systems research portfolio.
+It should also be easy to reference from the parent MCGR page so the diagram library is visible as part of the larger ecosystem.
 
 It brings together source diagrams, exported assets, and reference visuals that support:
 
@@ -41,6 +42,16 @@ This repository supports:
 - publication figures and appendix visuals
 - reusable diagram families
 - cross-repository visual consistency
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [Multi-Cloud Governance Model](../multi-cloud-governance-model/README.md)
+- [SLO-Driven Cloud Architecture](../slo-driven-cloud-architecture/README.md)
+- [DR Governance Framework](../dr-governance-framework/README.md)
+- [AI-Driven Observability Framework](../ai-driven-observability-framework/README.md)
+- [Cloud Risk and Compliance Controls](../cloud-risk-compliance-controls/README.md)
 
 ## Content Model
 
@@ -85,6 +96,18 @@ Use this repository as the visual backbone for the broader framework ecosystem. 
 ## Operating Principle
 
 Every visual should be easy to reuse, easy to trace, and consistent with the story the repository is telling.
+
+## Quick View
+
+| Diagram Family | Primary Use | Typical Export |
+| --- | --- | --- |
+| MCGR | Ecosystem and framework overview | SVG / PNG / PDF |
+| Governance | Policy and control flow | SVG / PNG |
+| SRE / Observability | Signals and incident flow | SVG / PNG |
+| DR | Recovery and failover logic | SVG / PDF |
+| FinOps | Cost governance and allocation | SVG / PNG |
+| AI Governance | Review and risk flow | SVG / PNG |
+| Enterprise Architecture | Capabilities and roadmaps | SVG / PDF |
 
 ## Ecosystem Links
 

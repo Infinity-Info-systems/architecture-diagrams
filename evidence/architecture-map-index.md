@@ -1,6 +1,7 @@
 # Architecture Map Index
 
 This index gives the diagram repository a practical entry point for the MCGR ecosystem.
+It should make it easy to show which diagrams support the parent MCGR page and which support the related repo pages.
 
 ## Purpose
 
@@ -52,15 +53,15 @@ Use this page to find the right diagram family for governance, SRE, DR, observab
 
 ## Example Diagram Index
 
-| Family | Primary Use | Status |
-| --- | --- | --- |
-| MCGR | Hub and ecosystem overview | Ready |
-| Governance | Policy and control design | Ready |
-| SRE | Reliability and incident flow | Ready |
-| DR | Recovery planning | Ready |
-| FinOps | Cost governance | Ready |
-| AI Governance | Use case and risk flow | Ready |
-| Enterprise Architecture | Target state and roadmap | Ready |
+| Family | Primary Use | Status | Best Linked Repo |
+| --- | --- | --- | --- |
+| MCGR | Hub and ecosystem overview | Ready | MCGR-Framework |
+| Governance | Policy and control design | Ready | Multi-Cloud Governance Model |
+| SRE | Reliability and incident flow | Ready | SRE Reliability Models |
+| DR | Recovery planning | Ready | DR Governance Framework |
+| FinOps | Cost governance | Ready | Cloud FinOps Governance |
+| AI Governance | Use case and risk flow | Ready | AI Governance Framework |
+| Enterprise Architecture | Target state and roadmap | Ready | Enterprise Architecture Blueprints |
 
 ## Recommended Actions
 
@@ -72,6 +73,8 @@ Use this page to find the right diagram family for governance, SRE, DR, observab
 - list the primary repo or publication each family supports
 - flag any diagram that is intended for executive use
 - document the source file for each published export
+- link the published export back to the repo that owns the narrative
+- prefer one hero visual per family page when the page is intended for executives
 
 ## Index Rule
 
