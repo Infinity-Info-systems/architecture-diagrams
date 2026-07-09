@@ -5,6 +5,16 @@
 This index organizes the diagram library into a front door for architecture, governance, reliability, resilience, and FinOps visuals.
 Use it to quickly find the right visual family for a paper, a web page, or a board-facing artifact.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Diagram Index | Find the right visual family |
+| 2 | Family README | Understand the visual intent |
+| 3 | Source Files | Edit the original asset |
+| 4 | Exports | Use the publishable output |
+| 5 | Bibliography | Reuse source references |
+
 ## Diagram Families
 
 - [MCGR](../mcgr/README.md): ecosystem map, framework model, repo relationships
@@ -34,3 +44,12 @@ Use it to quickly find the right visual family for a paper, a web page, or a boa
 
 Use the same section structure as the other core repos so visual assets stay easy to find and reuse.
 Keep family names and export names aligned so the same visual can be found across repos quickly.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Find MCGR visuals | MCGR family page |
+| Find govern­ance visuals | Governance family page |
+| Find reliability visuals | SRE family page |
+| Find publishable exports | Exports page |

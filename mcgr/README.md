@@ -6,6 +6,16 @@ This family holds diagrams for the MCGR framework, including the ecosystem map, 
 
 It is the main visual bridge between the MCGR-Framework repository and the public-facing Infinity Info Systems narrative.
 
+## MCGR Visual Flow
+
+```mermaid
+flowchart LR
+    A["Framework Story"] --> B["Ecosystem Map"]
+    B --> C["Repo Relationships"]
+    C --> D["Public Page Visuals"]
+    D --> E["Exported Assets"]
+```
+
 ## Typical Diagrams
 
 - ecosystem overview
@@ -26,3 +36,12 @@ It is the main visual bridge between the MCGR-Framework repository and the publi
 ## Use Guidance
 
 Use this family for the diagrams that define the core MCGR story and its related public references.
+
+## Visual Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Story | What is MCGR? | Framework diagram |
+| Ecosystem | What connects to it? | Ecosystem map |
+| Reuse | Where does it appear? | Website and repo references |
+| Publication | What gets shipped? | SVG / PNG / PDF exports |

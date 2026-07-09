@@ -27,3 +27,7 @@ flowchart LR
   A --> F[AI Governance]
   A --> G[Enterprise Architecture]
 ```
+
+## Registry Rule
+
+Every diagram should be traceable to a family, a source file, an export type, and a parent repository reference.

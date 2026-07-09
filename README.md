@@ -43,6 +43,17 @@ This repository supports:
 - reusable diagram families
 - cross-repository visual consistency
 
+## Visual Flow
+
+```mermaid
+flowchart LR
+    A["Source"] --> B["Export"]
+    B --> C["Index"]
+    C --> D["Family Page"]
+    D --> E["Repo Link"]
+    E --> F["Public Use"]
+```
+
 ## Where This Fits In The Ecosystem
 
 - [MCGR Framework](../MCGR-Framework/README.md)
@@ -108,6 +119,16 @@ Every visual should be easy to reuse, easy to trace, and consistent with the sto
 | FinOps | Cost governance and allocation | SVG / PNG |
 | AI Governance | Review and risk flow | SVG / PNG |
 | Enterprise Architecture | Capabilities and roadmaps | SVG / PDF |
+
+## Asset Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Source | What is editable? | Draw.io / Visio |
+| Export | What is publishable? | SVG / PNG / PDF |
+| Index | What is findable? | Diagram index |
+| Family | What is the story? | Family README |
+| Reuse | Where is it referenced? | Parent repo / website |
 
 ## Ecosystem Links
 
